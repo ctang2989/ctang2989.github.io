@@ -1,0 +1,28 @@
+body {
+	background-image: url("bamboo.jpg");
+	background-attachment: fixed;
+}
+	
+	
+h1 {
+	text-align: center;
+	color: darkgreen;
+	font-family: papyrus;
+	font-size: 68px
+}
+	
+	
+h2, h3 {
+	text-align: center;
+	color: darkgreen;
+	font-family: papyrus;
+	font-size: 40px
+}
+	
+	
+p {
+	text-align: center;
+	color: green;
+	font-family: brush script mt;
+	font-size: 25px
+}
