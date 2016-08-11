@@ -1,5 +1,5 @@
 function myFunction(){
-	alert('WARNING! THIS IS AN EMERGENCY! YOU JUST GOT PRANKED');
+	alert('Congratulations! You just got a virus!');
 }
 
 
