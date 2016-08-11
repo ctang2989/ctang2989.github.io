@@ -29,9 +29,13 @@ p {
 
 a {
 	text-align: center;
+	color: green;
+	font-family: hoefler text;
+	font-size: 15px
 }
 
 
 iframe {
 	text-align: center;
+	
 }
